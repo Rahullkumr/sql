@@ -1,4 +1,4 @@
-# pyspider
+# Spiders
 all subjects learned in pyspider
 
 ## Technologies learnt
